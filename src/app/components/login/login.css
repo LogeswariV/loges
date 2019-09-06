@@ -1,0 +1,14 @@
+.login-form{
+  width:100%;
+  max-width :330px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 10%;
+  height: 100%;
+  border:1px solid grey;
+}
+.error-text{
+	color:red;
+	font-size:15px;
+	margin-top:-20px;
+}
